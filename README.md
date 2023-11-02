@@ -6,7 +6,11 @@
 
 <h1>Technologies I that used:</h1>
 <ul>
-  <li>JavaScript <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30px" height="30px"></li>
-  <li>NodeJS <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="30px" height="30px"></li>
-  <li>ExpressJS <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="30px" height="30px"></li>
+  <li>JavaScript;</li>
+  <li>NodeJS;</li>
+  <li>ExpressJS.</li>
 </ul>
+<hr>
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="30px" height="30px">
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="30px" height="30px">
+<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="30px" height="30px">
