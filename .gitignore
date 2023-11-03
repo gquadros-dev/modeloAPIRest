@@ -1,5 +1,6 @@
-## IGNORE MODULES ##
+## IGNORE FOLDERS ##
 node_modules
+dist
 
 
 ## IGNORE CONFIG FILES ##
