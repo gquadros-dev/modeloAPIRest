@@ -1,0 +1,14 @@
+## IGNORE MODULES ##
+node_modules
+
+
+## IGNORE CONFIG FILES ##
+.env
+.editorconfig
+.eslintrc.js
+
+
+## IGNORE IMAGE FILES ##
+*.jpeg
+*.jpg
+*.png
